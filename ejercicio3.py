@@ -8,7 +8,7 @@ import io
 import numpy as np
 
 def preprocesamiento_iris():
-    st.title("🌸 Ejercicio 3: Preprocesamiento del Dataset Iris (Paso a paso)")
+
 
     # ============================================
     # 1️⃣ CARGA DEL DATASET

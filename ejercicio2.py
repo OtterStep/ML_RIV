@@ -9,8 +9,7 @@ from sklearn.linear_model import LinearRegression
 import matplotlib.pyplot as plt
 
 def preprocesamiento_student():
-    st.title("🎓 Ejercicio 2: Preprocesamiento del Dataset Student Performance")
-
+   
     # 1️⃣ CARGA DEL DATASET
     st.subheader("1️⃣ Cargar dataset")
     dataset = pd.read_csv("data/student-mat.csv", sep=';')
